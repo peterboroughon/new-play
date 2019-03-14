@@ -3129,13 +3129,13 @@ of any place I would rather be than in the classroom.
 
 **Miss Milroy:** It may not seem possible to you  but
 
-*Once upon a time, not so  long ago,
-Only yesterday it seems I was one like you, you know.  
+*Once upon a time, not so  long ago,  
+Only yesterday it seems I was one like you, you know.    
 Fresh and newly hatched, still wet with the dew,  
 Full of promises of all the things that I would do.*
 
-*But so  weighed down are we, 
-By the roles that we must play,  
+*But so  weighed down are we,   
+By the roles that we must play,    
 Though we try to fly,  
 Our feet are mired in the clay.*  
 
