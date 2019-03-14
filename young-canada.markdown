@@ -3139,9 +3139,9 @@ By the roles that we must play,
 Though we try to fly,  
 Our feet are mired in the clay.*  
 
-*But to discouragement I say*
-*That my courage will not fail.*
-*I will rise and try again,*
+*But to discouragement I say*  
+*That my courage will not fail.*  
+*I will rise and try again,*  
 *I will rise and will prevail.*
 
 **Miss Milroy:** Oh I am not so very discouraged. You see, I will
