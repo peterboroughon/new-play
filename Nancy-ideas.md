@@ -5,3 +5,5 @@ anniversary of Confederation. The character Nancy is a young woman university
 student, living at home and commuting to class by street car. 
 
 Street cars enter largely into my thinking about the story. 
+
+I am trying to get github to display rendered markdown.
